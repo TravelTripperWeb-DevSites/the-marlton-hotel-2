@@ -1,0 +1,8 @@
+{
+  "name": "Room Photo",
+  "image": {
+    "url": "http://d31f902anbz5po.cloudfront.net/1038/110378_1_master.jpg"
+  },
+  "order": 2,
+  "hidden": false
+}
